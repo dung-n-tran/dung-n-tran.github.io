@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dung-n-tran.github.io/categories/</loc>
+    <loc>https://dung-n-tran.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dung-n-tran.github.io/</loc>
+    <loc>https://dung-n-tran.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dung-n-tran.github.io/categories/</loc>
   </url>
   
   <url>
